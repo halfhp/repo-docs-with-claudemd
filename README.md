@@ -4,8 +4,8 @@ Another goal is to keep the addition of context to the LLM as small as possible.
 
 The approach demonstrated here is to maintain common sections in CLAUDE.md and then link to them from README.md ensuring that only information that is explicitly meant for Claude is included as context.
 
-# Code Conventions
-TODO
+# Coding Conventions
+See [Coding Conventions](./CLAUDE.md#coding-conventions)
 
 # Design Patterns
-TODO
+See [Design Patterns](./CLAUDE.md#design-patterns)
