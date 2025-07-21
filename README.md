@@ -15,6 +15,8 @@ The approach demonstrated here is to maintain common sections in `CLAUDE.md` and
 1. add the section to `CLAUDE.md`
 2. link to the new section in `README.md`
 
+One potential additional advantage is that it's been reported that Claude Code is inconsistent about pulling in and consistently following context from external files.  Certainly issues also exist with consistently following what's provided in `CLAUDE.md` but the general sentiment seems to be that the fewer degrees of separation, the more likely it is to work as expected.
+
 # Coding Conventions
 See [Coding Conventions](./CLAUDE.md#coding-conventions)
 
